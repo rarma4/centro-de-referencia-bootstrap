@@ -1,0 +1,54 @@
+#svg-map path { fill:#0094d9 }
+#svg-map text { fill:#fff; font:12px Arial-BoldMT, sans-serif; cursor:pointer }
+#svg-map a{ text-decoration:none }
+#svg-map a:hover { cursor:pointer; text-decoration:none }
+#svg-map a:hover path{ fill:#003399 !important }
+#svg-map .circle { fill:#66ccff }
+#svg-map a:hover .circle { fill:#003399 !important; cursor:pointer }
+    
+    .app{
+        /* display: flex;
+        flex-wrap: wrap; */
+    }
+    .card{
+        min-width: 300px;
+        /* flex:1;
+        margin:20px;
+        border: solid 2px #ccc;
+        border-radius: 10px;
+        overflow: hidden;
+        background-color: #eee;
+        display: flex;
+        flex-direction: column; */
+        
+    }
+    /* 
+    .card .content{
+        flex: 1;
+        padding: 15px 10px ;
+        color: #333;
+        
+    }
+     .instituicao{  
+        color:#333;
+        font-weight: 700;
+    }
+    
+    .card .footer{
+        background-color:#ccc;
+        color: #333;
+        padding: 5px 10px ;
+        text-decoration: none;
+        border: solid 2px #ccc;
+    }
+    .card .footer a{
+        text-decoration: none;
+        color:#333;
+    }
+    .centralizar{
+        margin:0 auto;
+        text-align: center;
+    } */
+    svg#svg-map {
+        width: 90%;
+    }

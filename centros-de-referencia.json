@@ -1,0 +1,590 @@
+[
+    {
+        "Instituição": "H. do HELIÓPOLIS",
+        "Endereço": " R. Cônego Xavier, 276 - Sacomã",
+        "CEP": "04231-030",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "HC",
+        "Endereço": "Rua, Av. Dr. Enéas Carvalho de Aguiar, 255",
+        "CEP": "05403-000",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "H. do IPIRANGA",
+        "Endereço": "Av. Nazaré, 28 - Vila Monumento",
+        "CEP": "04262-000",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "AERONÁUTICA",
+        "Endereço": " Av. Olavo Fontoura, 1400 ",
+        "CEP": "02012-021",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "POLÍCIA MILITAR",
+        "Endereço": "Av. Nova Cantareira, 3659",
+        "CEP": "02341-001",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "MARIA ZÉLIA",
+        "Endereço": "R. Jequitinhonha, 368 ",
+        "CEP": "03021-040",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "UNISA",
+        "Endereço": "R. Amador Bueno, 389/491",
+        "CEP": "04752-900",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "SANTA CASA",
+        "Endereço": "Av. Adolfo Pinheiro, 236 ",
+        "CEP": "04734-001",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "UNIFESP",
+        "Endereço": "R. Borges Lagoa, 778",
+        "CEP": "04038-001",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "IAMSPE",
+        "Endereço": "Rua Pedro de Toledo, 1800",
+        "CEP": "04039-000",
+        "Cidade": "São Paulo",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "PUC",
+        "Endereço": "Av. John Boyd Dunlop",
+        "CEP": "13034-685",
+        "Cidade": "Campinas",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "UNICAMP",
+        "Endereço": " R. Vital Brasil, 251 ",
+        "CEP": "13083-888",
+        "Cidade": "Campinas",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "FMJ",
+        "Endereço": "R. Francisco Teles, 250",
+        "CEP": "13202-550",
+        "Cidade": "Jundiai",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "PUC",
+        "Endereço": "R. Claudio Manoel da Costa, 57",
+        "CEP": "18030-083",
+        "Cidade": "Sorocaba",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "H.de Base S.J do Rio Preto",
+        "Endereço": "Av. Brg. Faria Lima, 5544 - Vila Sao Jose, São José do Rio Preto",
+        "CEP": " 15090-000",
+        "Cidade": "SJRP",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "HC Ribeirão Preto",
+        "Endereço": " R. Ten. Catão Roxo, 3900",
+        "CEP": "14015-010",
+        "Cidade": "RBP",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "HOSPITAL DO AMOR BARRETOS",
+        "Endereço": "R. Antenor Duarte Viléla, 1331",
+        "CEP": "14784-400",
+        "Cidade": "Barretos",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "H.Regional Presidente Prudente",
+        "Endereço": " R. José Bongiovani, 1297",
+        "CEP": " 19050-680",
+        "Cidade": "Presidente Prudente",
+        "UF": "SP"
+    },
+    {
+        "Instituição": " H. Regional Marília",
+        "Endereço": " R. Dr. Reinaldo Machado, 255 ",
+        "CEP": "17519-080",
+        "Cidade": "Marilia",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "UNESP",
+        "Endereço": "Avenida Professor Mário Rubens Guimarães Montenegro",
+        "CEP": "18618-970",
+        "Cidade": "Botucatu",
+        "UF": "SP"
+    },
+    {
+        "Instituição": " Instututo Lauro de Souza Lima",
+        "Endereço": "Rod. Cmte. João Ribeiro de Barros",
+        "CEP": "17034-971",
+        "Cidade": "Bauru",
+        "UF": "SP"
+    },
+    {
+        "Instituição": "UERJ - H. Pedro Ernesto",
+        "Endereço": "Boulevard 28 de Setembro, 77 ",
+        "CEP": "20551-030",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": " - H. Fundão",
+        "Endereço": "Ilha do, R. Bruno Lobo ",
+        "CEP": "Cidade Universitária da Universidade Federal do Rio de Janeiro",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "HSE H.dos Servidores",
+        "Endereço": " R. Sacadura Cabral, 178 ",
+        "CEP": "20221-161",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H.Geral do Bonsucesso",
+        "Endereço": "Av. Londres, 616 ",
+        "CEP": "21041-030",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H. da Gamboa",
+        "Endereço": "R. da Gamboa, 303",
+        "CEP": "20220-324",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H.Curupaiti",
+        "Endereço": "R. Godofredo Viana, 64 - Tanque, Rio de Janeiro",
+        "CEP": "22730-020",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "HFAG",
+        "Endereço": "Estrada do Galeão, 4101 - Galeão, Rio de Janeiro",
+        "CEP": "21941-353",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "Santa Casa",
+        "Endereço": "R. Santa Luzia, 206 - Centro, Rio de Janeiro ",
+        "CEP": "20020-022",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "Hospital da Lagoa",
+        "Endereço": "R. Jardim Botânico, 501 - Jardim Botânico",
+        "CEP": "22470-050",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "Gaffré",
+        "Endereço": "R. Mariz e Barros, 775 - Maracanã",
+        "CEP": "20270-004",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "HCA",
+        "Endereço": "R. Barão de Itapagipe, 167 ",
+        "CEP": "20261-005",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H. do Bombeiro",
+        "Endereço": "Av. Paulo de Frontin, 876 - Rio Comprido",
+        "CEP": "20261-243",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "HNMD - Marcilio Dias",
+        "Endereço": "R. César Zama, 185 - Lins de Vasconcelos",
+        "CEP": "20725-090",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H. da Lagoa",
+        "Endereço": "R. Jardim Botânico, 501 - Jardim Botânico",
+        "CEP": "22470-050",
+        "Cidade": "Rio de Janeiro",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H.Antonio Pedro",
+        "Endereço": "R. Marquês de Paraná, 303 - Centro, Niterói",
+        "CEP": "24070-035",
+        "Cidade": "Niteroi",
+        "UF": "RJ"
+    },
+    {
+        "Instituição": "H. DARIO",
+        "Endereço": "Av. Euder Scherez de Souza - Laranjeiras",
+        "CEP": " 29175-680",
+        "Cidade": "Vitoria",
+        "UF": "ES"
+    },
+    {
+        "Instituição": "5af Manha - HUCAM",
+        "Endereço": " Av. Mal. Campos, 1355 - Santos Dumont, Vitória",
+        "CEP": "29041-295",
+        "Cidade": "Vitoria",
+        "UF": "ES"
+    },
+    {
+        "Instituição": "4af Tarde - Santa Casa",
+        "Endereço": "R. Dr. João dos Santos Neves, 143 - Vila Rubim",
+        "CEP": "29025-023",
+        "Cidade": "Vitoria",
+        "UF": "ES"
+    },
+    {
+        "Instituição": "HOSPITAL MATERNIDADE THEREZINHA",
+        "Endereço": "R. Dr. Dirceu de Andrade, 33 - São Mateus, Juiz de Fora",
+        "CEP": "36025-140",
+        "Cidade": "Juiz de Fora",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "HOSPITAL UNIVERSITÁRIO - UFJF",
+        "Endereço": "Campus Universitário, Rua José Lourenço Kelmer, s/n - São Pedro",
+        "CEP": "36036-900",
+        "Cidade": "Juiz de Fora",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "HOSPITAL UNIVERSITÁRIO DE BRASÍLIA",
+        "Endereço": "Setor de Grandes Áreas Norte 605 - Asa Norte",
+        "CEP": "70840-901",
+        "Cidade": "Brasilia",
+        "UF": "DF"
+    },
+    {
+        "Instituição": "HBDF- HOSPITAL DE BASE DO DF",
+        "Endereço": "Área Especial, Q. 101 - Asa Sul, Brasília",
+        "CEP": "70330-150",
+        "Cidade": "Brasilia",
+        "UF": "DF"
+    },
+    {
+        "Instituição": "SANTA CASA",
+        "Endereço": "Av. Francisco Sales, 1111 - Santa Efigênia",
+        "CEP": "30150-221",
+        "Cidade": "Belo Horizonte",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "EDUARDO DE MENEZES",
+        "Endereço": "R. Dr. Cristiano Rezende, 2213 - Bonsucesso",
+        "CEP": "30622-020",
+        "Cidade": "Belo Horizonte",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "HC - BELO HORIZONTE",
+        "Endereço": " Av. Prof. Alfredo Balena, 110 - Santa Efigênia",
+        "CEP": "30130-100",
+        "Cidade": "Belo Horizonte",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "IPSEMG - BH ",
+        "Endereço": "Alameda Ezequiel Dias, 225 - Centro, Belo Horizonte",
+        "CEP": "30130-110",
+        "Cidade": "Belo Horizonte",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "HGG - GOIANIA",
+        "Endereço": "Av. Anhanguera, 6479 - St. Oeste, Goiânia",
+        "CEP": "74110-010",
+        "Cidade": "Goiania",
+        "UF": "GO"
+    },
+    {
+        "Instituição": "HC - GOIANIA ",
+        "Endereço": "1ª Avenida, S/N - Setor Leste Universitário, Goiânia ",
+        "CEP": " 74605-020",
+        "Cidade": "Goiania",
+        "UF": "GO"
+    },
+    {
+        "Instituição": "UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO",
+        "Endereço": "Av. Getúlio Guaritá, 130 - Nossa Sra. da Abadia",
+        "CEP": "38025-440",
+        "Cidade": "Uberaba",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "UNIVERSIDADE FEDERAL DE UBERLANDIA",
+        "Endereço": " Av. Pará, 1720 - Umuarama, Uberlândia",
+        "CEP": "38405-320",
+        "Cidade": "Uberlandia",
+        "UF": "MG"
+    },
+    {
+        "Instituição": "HOSPITAL JULIO MULLER",
+        "Endereço": "R. Luis Philippe Pereira Leite, s/n - Alvorada, Cuiabá",
+        "CEP": " 78048-902",
+        "Cidade": "Cuiabá",
+        "UF": "MT"
+    },
+    {
+        "Instituição": "HOSPITAL UNIVERSITÁRIO",
+        "Endereço": "Av. Sen. Filinto Müler, 355 - Vila Ipiranga",
+        "CEP": "79080-190",
+        "Cidade": "Campo Grande",
+        "UF": "MS"
+    },
+    {
+        "Instituição": "Hospital Universitario - UFPB",
+        "Endereço": " R. Tab. Stanislau Eloy, 585 - Castelo Branco",
+        "CEP": "58050-585",
+        "Cidade": "Joao Pessoa",
+        "UF": "PB"
+    },
+    {
+        "Instituição": "Hospital Universitario - UFRN",
+        "Endereço": " Av. Nilo Peçanha, 620 - Petrópolis, Natal",
+        "CEP": "59012-300",
+        "Cidade": "Natal",
+        "UF": "PB"
+    },
+    {
+        "Instituição": "CEMA (Central de Medicamentos do Amazonas)",
+        "Endereço": " Rua Duque de Caxias, nº 1998",
+        "CEP":"69020-141",
+        "Cidade": "Manaus ",
+        "UF": "AM"
+    },
+    {
+        "Instituição": "CREME (Centro de Referência de Medicamento Especializado)",
+        "Endereço": "Via Verde, 2224 - Distrito Industrial, Rio Branco",
+        "CEP": "69917-650",
+        "Cidade": "Rio Branco ",
+        "UF": "AC"
+    },
+    {
+        "Instituição": "HU MACEIÓ",
+        "Endereço": "Av. Lourival Melo Mota, S/N - Tabuleiro do Martins",
+        "CEP":"",
+        "Cidade": "Maceio",
+        "UF": "AL"
+    },
+    {
+        "Instituição": "HUARACAJÚ",
+        "Endereço": "R. Cláudio Batista - Palestina, Aracaju - SE",
+        "CEP": "49060-676",
+        "Cidade": "Aracaju",
+        "UF": "SE"
+    },
+    {
+        "Instituição": "Hospital das Clinicas",
+        "Endereço": "R. Delmiro de Farias, 1425-1331 - Jardim América",
+        "CEP": "60416-030",
+        "Cidade": "Fortaleza ",
+        "UF": "CE"
+    },
+    {
+        "Instituição": "Hospital Geral de Fortaleza",
+        "Endereço": "R. Ávila Goularte, 900 - Papicu, Fortaleza",
+        "CEP": "60150-160",
+        "Cidade": "Fortaleza ",
+        "UF": "CE"
+    },
+    {
+        "Instituição": "Hospital César Cals",
+        "Endereço": "Avenida Imperador, 545 - Centro, Fortaleza ",
+        "CEP": "60015-152",
+        "Cidade": "Fortaleza ",
+        "UF": "CE"
+    },
+    {
+        "Instituição": "HGV",
+        "Endereço": "Av. Frei Serafim, 2352 - Centro (Sul), Teresina",
+        "CEP": " 64001-020",
+        "Cidade": "Teresina ",
+        "UF": "PI"
+    },
+    {
+        "Instituição": "FEME ",
+        "Endereço": "Av. Sen. Vitorino Freire, 26 B - Centro, São Luís - MA",
+        "CEP": "65010-650",
+        "Cidade": "São Luís ",
+        "UF": "MA"
+    },
+    {
+        "Instituição": "Santa Casa",
+        "Endereço": " Praça Rui Barbosa, 694 - Centro, Curitiba - PR",
+        "CEP": " 80010-030",
+        "Cidade": "Curitiba",
+        "UF": "PR"
+    },
+    {
+        "Instituição": "H. Evangelico",
+        "Endereço": "Alameda Augusto Stellfeld, 1908 - Bigorrilho",
+        "CEP": "80730-150",
+        "Cidade": "Curitiba",
+        "UF": "PR"
+    },
+    {
+        "Instituição": "HC",
+        "Endereço": "R. Gen. Carneiro, 181 - Alto da Glória, Curitiba",
+        "CEP": "80060-900",
+        "Cidade": "Curitiba",
+        "UF": "PR"
+    },
+    {
+        "Instituição": "Prohansen",
+        "Endereço": "R. Fernando Amaro, 1116 - Alto da XV, Curitiba ",
+        "CEP": "80045-380",
+        "Cidade": "Curitiba",
+        "UF": "PR"
+    },
+    {
+        "Instituição": "UEL",
+        "Endereço": "Av. Robert Koch, 60 - Operária, Londrina",
+        "CEP": "86038-350",
+        "Cidade": "Londrina",
+        "UF": "PR"
+    },
+    {
+        "Instituição": "H. Universitário",
+        "Endereço": "Condomínio Residence Flanboyant - R. Profa. Maria Flora Pausewang, 108",
+        "CEP":"88036-800",
+        "Cidade": "Florianopolis",
+        "UF": "SC"
+    },
+    {
+        "Instituição": "H.Universtitario UNIVALI ",
+        "Endereço": "Praça Gov. Irineu Bornhausen, 85 - Centro, Itajaí",
+        "CEP": "88303-026",
+        "Cidade": "Itajai",
+        "UF": "SC"
+    },
+    {
+        "Instituição": "HUSM",
+        "Endereço": "Universidade Federal de Santa Maria - UFSM - Av. Roraima",
+        "CEP": "97105-900",
+        "Cidade": "Santa Maria",
+        "UF": "RS"
+    },
+    {
+        "Instituição": "HCPOA",
+        "Endereço": "Rua Ramiro Barcelos, 2350, Av. Protásio Alves",
+        "CEP": "90035-903",
+        "Cidade": "Porto Alegre",
+        "UF": "RS"
+    },
+    {
+        "Instituição": "Santa Casa de Porto Alegre",
+        "Endereço": "Rua Professor Annes Dias, 295 - Centro Histórico",
+        "CEP": "90020-090",
+        "Cidade": "Porto Alegre",
+        "UF": "RS"
+    },
+    {
+        "Instituição": "CISAN",
+        "Endereço": "R. Visc. de Mamanguape, S/N - Encruzilhada",
+        "CEP": "52030-010",
+        "Cidade": "Recife",
+        "UF": "PE"
+    },
+    {
+        "Instituição": "HUOC",
+        "Endereço": "R. Arnóbio Marquês, 310 - Santo Amaro, Recife",
+        "CEP": " 50100-130",
+        "Cidade": "Recife",
+        "UF": "PE"
+    },
+    {
+        "Instituição": "HOF",
+        "Endereço": "R. Aprígio Guimarães, s/n - Tejipio, Recife",
+        "CEP": " 50920-460",
+        "Cidade": "Recife",
+        "UF": "PE"
+    },
+    {
+        "Instituição": "Santa Casa",
+        "Endereço": "Unnamed Road - Santo Amaro, Recife",
+        "CEP": "50030-230",
+        "Cidade": "Recife",
+        "UF": "PE"
+    },
+    {
+        "Instituição": "IMIP",
+        "Endereço": " R. dos Coelhos, 300 - Boa Vista, Recife",
+        "CEP": "50070-550",
+        "Cidade": "Recife",
+        "UF": "PE"
+    },
+    {
+        "Instituição": "HC UFPE",
+        "Endereço": "Av. Prof. Moraes Rego, 1235 - Cidade Universitária, Recife ",
+        "CEP": "50670-901",
+        "Cidade": "Recife",
+        "UF": "PE"
+    },
+    {
+        "Instituição": "Hospital Alfredo da Mata",
+        "Endereço": "Av. Codajás, 24 - Cachoeirinha, Manaus",
+        "CEP": "69065-130",
+        "Cidade": "Manaus ",
+        "UF": "AM"
+    },
+    {
+        "Instituição": "Hospital Tropical ",
+        "Endereço": "Av. Pedro Teixeira, s/n - Dom Pedro, Manaus",
+        "CEP": "69040-000",
+        "Cidade": "Manaus ",
+        "UF": "AM"
+    },
+    {
+        "Instituição": "UFPI",
+        "Endereço": "Campus I Campus Universitário Ministro Petrônio Portela, SG 07 s/n - Ininga",
+        "CEP": "64049-550",
+        "Cidade": "Teresina ",
+        "UF": "PI"
+    },
+    {
+        "Instituição": "HC SALVADOR",
+        "Endereço": "Rua Doutor Augusto Viana, 1 - Canela ",
+        "CEP": "40110-060",
+        "Cidade": "Bahia ",
+        "UF": "BA"
+    }
+]
